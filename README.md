@@ -11,9 +11,9 @@
 
 </h1>
 
-###📖
+## 📖
 
-###Hunters of Chaos: An adventure through the past. 🌏
+## Hunters of Chaos: An adventure through the past. 🌏
 
 <p>Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
 Gods of Astern 🌑.</p>
