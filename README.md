@@ -16,13 +16,13 @@
 ## Hunters of Chaos: An adventure through the past. 🌏
 
 <div align="justify">
-    <p>Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
-    Gods of Astern 🌑.</p>
+<p>Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
+Gods of Astern 🌑.</p>
 
-    <p>The young boy who has spent his whole life helping his father at the farm, has now to go on a quest for knowledge and magic to fight the dark forces of the universe 👾 👽 that were trying to destroy our planet.</p>
+<p>The young boy who has spent his whole life helping his father at the farm, has now to go on a quest for knowledge and magic to fight the dark forces of the universe 👾 👽 that were trying to destroy our planet.</p>
 
-    The Queen Helga 👸 has sent Sean in a quest to find the rock of life 💎 that was supposed to grant the choosen one power and knowledge to destroy the evil forces. 
-    <p>Travelling through time ⏳, Sean has to find the lost island of Demry 🗾 to retrieve the magic rock and absorb its power.</p>
+The Queen Helga 👸 has sent Sean in a quest to find the rock of life 💎 that was supposed to grant the choosen one power and knowledge to destroy the evil forces. 
+<p>Travelling through time ⏳, Sean has to find the lost island of Demry 🗾 to retrieve the magic rock and absorb its power.</p>
 </div>
 
 
@@ -42,9 +42,10 @@
     How to develop and create PR's.
 
     ```sh
-    git clone https://repoaddress.github.git
-    cd repo
+    git clone https://github.com/ewerton-azevedo/hunters-of-chaos.git
+    cd hunters-of-chaos
     ```
+    Send your changes to the Development Branch and open a new Pull Request
 
 ## 🧐 What's inside?
 
