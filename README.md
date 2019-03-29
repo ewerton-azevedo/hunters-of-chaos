@@ -5,10 +5,23 @@
   </a>
 </p>
 <h1 align="center">
-  🤖 C++ Game 👾
+    <span = align="center">⚔</span>
+    Hunters of Chaos 
 </h1>
 
-Game description
+##📖
+
+##Hunters of Chaos: An adventure through the past. 🌏
+
+Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
+Gods of Astern 🌑.
+
+The young boy who has spent his whole life helping his father at the farm, had now to go on a quest for knowledge and magic to fight the dark forces of the universe 👾 👽 that were trying to destroy our planet.
+
+The Queen <name> 👸 has sent Sean in a quest to find the rock of life 💎 that was supposed to grant the choosen one power and knowledge to destroy the evil forces. 
+Travelling through time ⏳, Sean has to find the lost island of Demry 🗾 to retrieve the magic rock and absorb its power.
+
+
 
 ## 🚀 Quick start
 
@@ -17,11 +30,11 @@ Game description
     Explain how to start the game.
 
     ```sh
-    # code block comment
+    # How to compile and run
     ./run
     ```
 
-1.  **Start developing.**
+2.  **Start developing.**
 
     How to develop and create PR's.
 
