@@ -15,14 +15,15 @@
 
 ## Hunters of Chaos: An adventure through the past. 🌏
 
-<p>Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
-Gods of Astern 🌑.</p>
+<div align="justify">
+    <p>Civilization was going through a time of war and destruction when Sean, a son of a humble farmer from a distant land was found to have been gifited ✨ from the 
+    Gods of Astern 🌑.</p>
 
-<p>The young boy who has spent his whole life helping his father at the farm, has now to go on a quest for knowledge and magic to fight the dark forces of the universe 👾 👽 that were trying to destroy our planet.</p>
+    <p>The young boy who has spent his whole life helping his father at the farm, has now to go on a quest for knowledge and magic to fight the dark forces of the universe 👾 👽 that were trying to destroy our planet.</p>
 
-The Queen Helga 👸 has sent Sean in a quest to find the rock of life 💎 that was supposed to grant the choosen one power and knowledge to destroy the evil forces. 
-<p>Travelling through time ⏳, Sean has to find the lost island of Demry 🗾 to retrieve the magic rock and absorb its power.</p>
-
+    The Queen Helga 👸 has sent Sean in a quest to find the rock of life 💎 that was supposed to grant the choosen one power and knowledge to destroy the evil forces. 
+    <p>Travelling through time ⏳, Sean has to find the lost island of Demry 🗾 to retrieve the magic rock and absorb its power.</p>
+</div>
 
 
 ## 🚀 Quick start
